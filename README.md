@@ -4,6 +4,8 @@ A tool which makes http requests and prints the address of the request along wit
 ### Instructions
 
 1. Make sure you have Go installed ([download](https://golang.org/dl/)).
+2. Clone source code by typing ``git clone https://github.com/hojabri/http-call-md5.git`` in the terminal
+3. Change directory to ``http-call-md5``
 2. To build an executable commandline file, type in the terminal: `make build`. This will build and create `myhttp` executable file.
 5. To run unit tests, type in the terminal: ``make test``
 
